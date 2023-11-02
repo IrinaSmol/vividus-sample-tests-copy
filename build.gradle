@@ -13,4 +13,6 @@ dependencies {
     implementation(group: 'org.vividus', name: 'vividus-plugin-json')
     implementation(group: 'org.vividus', name: 'vividus-plugin-web-app')
     implementation(group: 'org.vividus', name: 'vividus-plugin-mobile-app')
+    implementation(group: 'org.vividus', name: 'vividus-plugin-ssh')
+    implementation(group: 'org.vividus', name: 'vividus-plugin-web-app-to-rest-api')
 }
